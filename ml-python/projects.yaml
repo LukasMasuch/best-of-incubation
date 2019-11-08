@@ -1,0 +1,345 @@
+configuration:
+  min_stars: 100
+  min_sourcerank: 5
+  require_github: True
+  projects_history_folder: "history"
+
+categories:
+# Cateogries from main file:
+- category: "ml-frameworks"
+  title: "Machine Learning Frameworks"
+  subtitle: "General-purpose machine learning and deep learning frameworks."
+- category: "data-viz"
+  title: "Data Visualization"
+  subtitle: "General-purpose and task-specific data visualization libraries."
+- category: "nlp"
+  title: "Text Data & NLP"
+  subtitle: "Libraries for parsing, manipulating, and processing plain texts. ... Sequence Analysis"
+- category: "image"
+  title: "Image Data"
+  subtitle: "Libraries and tools for computer vision and image manipulation."
+- category: "graph"
+  title: "Graph Data"
+- category: "audio"
+  title: "Audio Data"
+  subtitle: "Speech Recognition, ..."
+- category: "geospatial-data"
+  title: "Geospatial Data"
+  subtitle: "Spatial Analysis, Geometry"
+- category: "financial-data"
+  title: "Financial Data"
+- category: "time-series-data"
+  title: "Time Series Data"
+  subtitle: "Sequential Data..."
+- category: "medical-data"
+  title: "Medical Data"
+- category: "data-handling"
+  title: "Data Handling"
+  subtitle: "Data containers and libraries & tools for data loading."
+- category: "data-collection"
+  title: "Data Collection & Extraction"
+  subtitle: "Data collection & extraction and web crawling libraries and tools."
+- category: "data-pipelines"
+  title: "Data Pipelines & Streaming"
+- category: "distributed-ml"
+  title: "Distributed Machine Learning"
+- category: "hyperopt"
+  title: "Hyperparameter Optimization & AutoML"
+  subtitle: "Hyperparameter optimization, AutoML and Neural Architecture Search libraries and tools."
+- category: "reinforcement-learning"
+  title: "Reinforcement Learning"
+- category: "recommender-systems"
+  title: "Recommender Systems"
+- category: "privacy-ml"
+  title: "Privacy Machine Learning"
+- category: "ml-workflow"
+  title: "Workflow & Experiment Tracking"
+  subtitle: "Organize, track, and visualize machine learning experiments."
+- category: "model-serialisation"
+  title: "Model Serialisation & Conversion"
+- category: "interpretability"
+  title: "Model Interpretability"
+  subtitle: "Visualize, explain, debug, evaluate, and interpret machine learning models."
+- category: "nn-search"
+  title: "Vector Similarity Search (ANN)"
+  subtitle: "Libraries for Approximate Nearest Neighbor Search and Vector Indexing/Similarity Search. For an awesome comparison, refer to this [benchmark](https://github.com/erikbern/ann-benchmarks)."
+- category: "gpu-utilities"
+  title: "GPU Utilities"
+- category: "tensorflow-utils"
+  title: "Tensorflow Utilities"
+- category: "pytorch-utils"
+  title: "Pytorch Utilities"
+- category: "probabilistics"
+  title: "Probabilistic Methods"
+  subtitle: "bayesian-methods..."
+- category: "adversarial"
+  title: "Adversarial Robustness"
+  subtitle: "Security..."
+- category: "db-clients"
+  title: "Database Clients"
+  subtitle: "Libraries for connecting and operating databases."
+- category: "dashboard-builders"
+  title: "Dashboard & Webapp Builders"
+- category: "system-monitoring"
+  title: "System Monitoring & Profiling"
+# New categories:
+- category: "language-specific-nlp"
+  title: "Language-specific NLP"
+- category: "ml-utilities"
+  title: "ML Utilities"
+- category: "conversational-ai"
+  title: "Conversational AI"
+
+labels:
+- label: "tensorflow"
+  image: "https://www.gstatic.com/devrel-devsite/v741200ba74cbd1989790411f8b27fb588884a771dac0e0472d95190dde1f7e2f/tensorflow/images/favicon.png"
+  url: "https://www.tensorflow.org/"
+  description: "Project is related to Tensorflow"
+- label: "sklearn"
+  image: "https://scikit-learn.org/stable/_static/favicon.ico"
+  url: "https://scikit-learn.org"
+  description: "Project is related to Sklearn"
+- label: "pytorch"
+  image: "https://pytorch.org/favicon.ico"
+  url: "https://pytorch.org"
+  description: "Project is related to PyTorch"
+- label: "mxnet"
+  image: "https://mxnet.apache.org/assets/img/mxnet_m.png"
+  url: "https://mxnet.apache.org"
+  description: "Project is related to MxNet"
+- label: "keras"
+  image: "https://keras.io/img/favicon.ico"
+  url: "https://keras.io"
+  description: "Project is related to Keras"
+- label: "spark"
+  image: "https://spark.apache.org/favicon.ico"
+  url: "https://spark.apache.org"
+  description: "Project is related to Apache Spark"
+- label: "jupyter"
+  image: "https://jupyter.org/favicon.ico"
+  url: "https://jupyter.org/"
+  description: "Project is related to Jupyter"
+
+projects:
+# NLP:
+- name: ktext
+  github_id: hamelsmu/ktext
+  category: nlp
+- name: bert-sklearn
+  github_id: charles9n/bert-sklearn
+  category: nlp
+- name: holmes-extractor
+  github_id: msg-systems/holmes-extractor
+  category: nlp
+- name: NeuronBlocks
+  github_id: Microsoft/NeuronBlocks
+  category: nlp
+- name: NeMo
+  github_id: NVIDIA/NeMo
+  category: nlp
+- name: GloVe
+  github_id: stanfordnlp/GloVe
+  category: nlp
+- name: lingvo
+  github_id: tensorflow/lingvo
+  category: nlp
+- name: seq2seq
+  github_id: google/seq2seq
+  category: nlp
+- name: babble
+  github_id: HazyResearch/babble
+  category: nlp
+- name: MUSE
+  github_id: facebookresearch/MUSE
+  category: nlp
+- name: SentEval
+  github_id: facebookresearch/SentEval
+  category: nlp
+- name: InferSent
+  github_id: facebookresearch/InferSent
+  category: nlp
+- name: wikipedia2vec
+  github_id: wikipedia2vec/wikipedia2vec
+  category: nlp
+- name: pynlpl
+  github_id: proycon/pynlpl
+  category: nlp
+- name: bigartm
+  github_id: bigartm/bigartm
+  category: nlp
+- name: chazutsu
+  github_id: chakki-works/chazutsu
+  category: nlp
+- name: gpt-2-output-dataset
+  github_id: openai/gpt-2-output-dataset
+  category: nlp
+- name: text-to-text-transfer-transformer
+  github_id: google-research/text-to-text-transfer-transformer
+  category: nlp
+- name: transfer-learning-conv-ai
+  github_id: huggingface/transfer-learning-conv-ai
+  category: nlp
+# Language-specific NLP
+- name: pkuseg-python
+  github_id: lancopku/pkuseg-python
+  category: language-specific-nlp
+- name: snownlp
+  github_id: isnowfy/snownlp
+  category: language-specific-nlp
+- name: konlpy
+  github_id: konlpy/konlpy
+  category: language-specific-nlp
+- name: python-pinyin
+  github_id: mozillazg/python-pinyin
+  category: language-specific-nlp
+- name: funNLP
+  github_id: fighting41love/funNLP
+  category: language-specific-nlp
+- name: jieba
+  github_id: fxsjy/jieba
+  category: language-specific-nlp
+- name: HanLP
+  github_id: hankcs/HanLP
+  category: language-specific-nlp
+- name: ml5-library
+  github_id: ml5js/ml5-library
+  category: language-specific-nlp
+- name: gorgonia
+  github_id: gorgonia/gorgonia
+  category: language-specific-nlp
+- name: caire
+  github_id: esimov/caire
+  category: language-specific-nlp
+# ML Frameworks
+- name: delira
+  github_id: delira-dev/delira
+  category: ml-frameworks
+- name: mace
+  github_id: XiaoMi/mace
+  category: ml-frameworks
+- name: ncnn
+  github_id: Tencent/ncnn
+  category: ml-frameworks
+- name: dlib
+  github_id: davisking/dlib
+  category: ml-frameworks
+- name: BIDMach
+  github_id: BIDData/BIDMach
+  category: ml-frameworks
+# ML Utils
+- name: mlcrate
+  github_id: mxbi/mlcrate
+  category: ml-utilities
+- name: stacknn-core
+  github_id: viking-sudo-rm/stacknn-core
+  category: ml-utilities
+# Reinforcment Learning:
+- name: mvfst-rl
+  github_id: facebookresearch/mvfst-rl
+  category: reinforcement-learning
+- name: torchbeast
+  github_id: facebookresearch/torchbeast
+  category: reinforcement-learning
+- name: rlpyt
+  github_id: astooke/rlpyt
+# Image Data
+- name: tiler
+  github_id: nuno-faria/tiler
+  category: image
+- name: Ultra-Light-Fast-Generic-Face-Detector-1MB
+  github_id: Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB
+  category: image
+- name: Weighted-Boxes-Fusion
+  github_id: ZFTurbo/Weighted-Boxes-Fusion
+  category: image
+- name: votenet
+  github_id: facebookresearch/votenet
+  category: image
+- name: few-shot-vid2vid
+  github_id: NVlabs/few-shot-vid2vid
+  category: image
+# Audio Data
+- name: kaldi
+  github_id: kaldi-asr/kaldi
+  category: audio
+# Financial Data
+- name: MachineLearningStocks
+  github_id: robertmartin8/MachineLearningStocks
+  category: financial-data
+- name: pybacktest
+  github_id: ematvey/pybacktest
+  category: financial-data
+# Geospatial Data
+- name: pypostal
+  github_id: openvenues/pypostal
+  category: geospatial-data
+# Graph Data
+- name: AttentionWalk
+  github_id: benedekrozemberczki/AttentionWalk
+  category: graph
+- name: Splitter
+  github_id: benedekrozemberczki/Splitter
+  category: graph
+- name: graph2vec
+  github_id: benedekrozemberczki/graph2vec
+  category: graph
+- name: graphbrain
+  github_id: graphbrain/graphbrain
+  category: graph
+- name: fastGraph
+  github_id: AngusKung/fastGraph
+  category: graph
+- name: KnowledgeGraphData
+  github_id: ownthink/KnowledgeGraphData
+  category: graph
+# Conversational AI
+- name: ChatterBot
+  github_id: gunthercox/ChatterBot
+  category: conversational-ai
+# Data Collection
+- name: youtube-dl
+  github_id: ytdl-org/youtube-dl
+  category: data-collection
+- name: you-get
+  github_id: soimort/you-get
+  category: data-collection
+- name: MechanicalSoup
+  github_id: MechanicalSoup/MechanicalSoup
+  category: data-collection
+# Data Pipelines
+- name: fuel
+  github_id: mila-iqia/fuel
+  category: data-pipelines
+- name: pinball
+  github_id: pinterest/pinball
+  category: data-pipelines
+# NN Search
+- name: pgANN
+  github_id: netrasys/pgANN
+  category: nn-search
+# DB Clients
+- name: queries
+  github_id: gmr/queries
+  category: db-clients
+- name: py2neo
+  github_id: technige/py2neo
+  category: db-clients
+# Others
+- name: lore
+  github_id: instacart/lore
+- name: PyMVPA
+  github_id: PyMVPA/PyMVPA
+- name: pytorch-struct
+  github_id: harvardnlp/pytorch-struct
+- name: GPy
+  github_id: SheffieldML/GPy
+- name: cvxpylayers
+  github_id: cvxgrp/cvxpylayers
+- name: receptive_field
+  github_id: google-research/receptive_field
+- name: dframcy
+  github_id: yash1994/dframcy
+- name: google-research
+  github_id: google-research/google-research
+- name: nolearn
+  github_id: dnouri/nolearn
