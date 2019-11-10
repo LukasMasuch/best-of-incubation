@@ -15,7 +15,7 @@
 - [Language-specific NLP](#language-specific-nlp) _8 projects_
 - [ML Utilities](#ml-utilities) _2 projects_
 - [Conversational AI](#conversational-ai) _1 projects_
-- [Others](#others) _10 projects_
+- [Others](#others) _11 projects_
 
 ## Explanation
 - 🥇🥈🥉 Combined project-quality score
@@ -105,7 +105,7 @@ _Libraries for parsing, manipulating, and processing plain texts. ... Sequence A
 	git clone https://github.com/proycon/pynlpl
 	```
 </details>
-<details><summary><b><a href="https://github.com/hamelsmu/ktext">ktext</a></b> (🥇16 ·  ⭐ 160) - Utilities for preprocessing text for deep learning with Keras. <code><a href="https://tldrlegal.com/license/mit-license">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/hamelsmu/ktext">ktext</a></b> (🥇16 ·  ⭐ 170) - Utilities for preprocessing text for deep learning with Keras. <code><a href="https://tldrlegal.com/license/mit-license">MIT</a></code></summary>
 
 - **[GitHub](https://github.com/hamelsmu/ktext)** (👨‍💻 2 · 🔀 27 · 📦 380 · 📋 11 - 27% open · ⏱️ 23.05.2019):
 
@@ -145,23 +145,15 @@ _Libraries for parsing, manipulating, and processing plain texts. ... Sequence A
 	git clone https://github.com/chakki-works/chazutsu
 	```
 </details>
-<details><summary><b><a href="https://github.com/google-research/text-to-text-transfer-transformer">text-to-text-transfer-transformer</a></b> (🥉10 ·  ⭐ 1K · 🐣) - Code for the paper Exploring the Limits of Transfer Learning with a.. <code><a href="https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/google-research/text-to-text-transfer-transformer">text-to-text-transfer-transformer</a></b> (🥉10 ·  ⭐ 1.1K · 🐣) - Code for the paper Exploring the Limits of Transfer Learning with a.. <code><a href="https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)">Apache-2</a></code></summary>
 
-- **[GitHub](https://github.com/google-research/text-to-text-transfer-transformer)** (👨‍💻 5 · 🔀 81 · 📦 2 · 📋 9 - 33% open · ⏱️ 07.11.2019):
+- **[GitHub](https://github.com/google-research/text-to-text-transfer-transformer)** (👨‍💻 5 · 🔀 82 · 📦 2 · 📋 9 - 33% open · ⏱️ 07.11.2019):
 
 	```
 	git clone https://github.com/google-research/text-to-text-transfer-transformer
 	```
 </details>
-<details><summary><b><a href="https://github.com/HazyResearch/babble">babble</a></b> (🥉7 ·  ⭐ 100) - A system for generating training labels via natural language.. <code><a href="https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)">Apache-2</a></code></summary>
-
-- **[GitHub](https://github.com/HazyResearch/babble)** (👨‍💻 1 · 🔀 12 · ⏱️ 24.06.2019):
-
-	```
-	git clone https://github.com/HazyResearch/babble
-	```
-</details>
-<details><summary>Show 9 hidden projects...</summary>
+<details><summary>Show 10 hidden projects...</summary>
 <br><details><summary><b><a href="https://github.com/google/seq2seq">seq2seq</a></b> (🥈15 ·  ⭐ 5K · 💀) - A general-purpose encoder-decoder framework for Tensorflow. <code><a href="https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)">Apache-2</a></code></summary>
 
 - **[GitHub](https://github.com/google/seq2seq)** (👨‍💻 16 · 🔀 1.1K · 📋 280 - 63% open · ⏱️ 17.04.2017):
@@ -210,9 +202,9 @@ _Libraries for parsing, manipulating, and processing plain texts. ... Sequence A
 	git clone https://github.com/facebookresearch/SentEval
 	```
 </details>
-<details><summary><b><a href="https://github.com/openai/gpt-2-output-dataset">gpt-2-output-dataset</a></b> (🥉9 ·  ⭐ 550 · 🐣) - Dataset of GPT-2 outputs for research in detection, biases, and more. <code>❗️Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/openai/gpt-2-output-dataset">gpt-2-output-dataset</a></b> (🥉10 ·  ⭐ 610 · 🐣) - Dataset of GPT-2 outputs for research in detection, biases, and more. <code>❗️Unlicensed</code></summary>
 
-- **[GitHub](https://github.com/openai/gpt-2-output-dataset)** (👨‍💻 5 · 🔀 130 · 📋 9 - 77% open · ⏱️ 05.11.2019):
+- **[GitHub](https://github.com/openai/gpt-2-output-dataset)** (👨‍💻 5 · 🔀 150 · 📋 10 - 80% open · ⏱️ 05.11.2019):
 
 	```
 	git clone https://github.com/openai/gpt-2-output-dataset
@@ -224,6 +216,14 @@ _Libraries for parsing, manipulating, and processing plain texts. ... Sequence A
 
 	```
 	git clone https://github.com/charles9n/bert-sklearn
+	```
+</details>
+<details><summary><b><a href="https://github.com/HazyResearch/babble">babble</a></b> (🥉7 ·  ⭐ 100) - A system for generating training labels via natural language.. <code><a href="https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)">Apache-2</a></code></summary>
+
+- **[GitHub](https://github.com/HazyResearch/babble)** (👨‍💻 1 · 🔀 12 · ⏱️ 24.06.2019):
+
+	```
+	git clone https://github.com/HazyResearch/babble
 	```
 </details>
 <details><summary><b><a href="https://github.com/msg-systems/holmes-extractor">holmes-extractor</a></b> (🥉6 ·  ⭐ 130) - Information extraction from English and German texts based on.. <code>❗️Unlicensed</code></summary>
@@ -243,9 +243,9 @@ _Libraries for parsing, manipulating, and processing plain texts. ... Sequence A
 
 _Libraries and tools for computer vision and image manipulation._
 
-<details><summary><b><a href="https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB">Ultra-Light-Fast-Generic-Face-Detector-1MB</a></b> (🥇13 ·  ⭐ 3.5K · 🐣) - 1MB lightweight face detection model (1MB). <code><a href="https://tldrlegal.com/license/mit-license">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB">Ultra-Light-Fast-Generic-Face-Detector-1MB</a></b> (🥇13 ·  ⭐ 3.6K · 🐣) - 1MB lightweight face detection model (1MB). <code><a href="https://tldrlegal.com/license/mit-license">MIT</a></code></summary>
 
-- **[GitHub](https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB)** (👨‍💻 5 · 🔀 680 · 📋 57 - 17% open · ⏱️ 06.11.2019):
+- **[GitHub](https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB)** (👨‍💻 5 · 🔀 680 · 📋 61 - 13% open · ⏱️ 06.11.2019):
 
 	```
 	git clone https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB
@@ -259,16 +259,16 @@ _Libraries and tools for computer vision and image manipulation._
 	git clone https://github.com/nuno-faria/tiler
 	```
 </details>
-<details><summary><b><a href="https://github.com/facebookresearch/votenet">votenet</a></b> (🥉9 ·  ⭐ 610 · 🐣) - Deep Hough Voting for 3D Object Detection in Point Clouds. <code><a href="https://tldrlegal.com/license/mit-license">MIT</a></code></summary>
+<details><summary>Show 2 hidden projects...</summary>
+<br><details><summary><b><a href="https://github.com/facebookresearch/votenet">votenet</a></b> (🥉9 ·  ⭐ 610 · 🐣) - Deep Hough Voting for 3D Object Detection in Point Clouds. <code><a href="https://tldrlegal.com/license/mit-license">MIT</a></code></summary>
 
-- **[GitHub](https://github.com/facebookresearch/votenet)** (👨‍💻 1 · 🔀 97 · 📋 43 - 16% open · ⏱️ 21.10.2019):
+- **[GitHub](https://github.com/facebookresearch/votenet)** (👨‍💻 1 · 🔀 99 · 📋 45 - 20% open · ⏱️ 21.10.2019):
 
 	```
 	git clone https://github.com/facebookresearch/votenet
 	```
 </details>
-<details><summary>Show 1 hidden projects...</summary>
-<br><details><summary><b><a href="https://github.com/ZFTurbo/Weighted-Boxes-Fusion">Weighted-Boxes-Fusion</a></b> (🥉7 ·  ⭐ 89 · 🐣) - Set of methods to ensemble boxes from object detection models,.. <code>❗️Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/ZFTurbo/Weighted-Boxes-Fusion">Weighted-Boxes-Fusion</a></b> (🥉7 ·  ⭐ 89 · 🐣) - Set of methods to ensemble boxes from object detection models,.. <code>❗️Unlicensed</code></summary>
 
 - **[GitHub](https://github.com/ZFTurbo/Weighted-Boxes-Fusion)** (👨‍💻 2 · 🔀 3 · 📥 17 · ⏱️ 31.10.2019):
 
@@ -308,7 +308,7 @@ _Libraries and tools for computer vision and image manipulation._
 	```
 </details>
 <details><summary>Show 2 hidden projects...</summary>
-<br><details><summary><b><a href="https://github.com/graphbrain/graphbrain">graphbrain</a></b> (🥇15 ·  ⭐ 98) - Language, Knowledge, Cognition. <code><a href="https://tldrlegal.com/license/mit-license">MIT</a></code></summary>
+<br><details><summary><b><a href="https://github.com/graphbrain/graphbrain">graphbrain</a></b> (🥇15 ·  ⭐ 99) - Language, Knowledge, Cognition. <code><a href="https://tldrlegal.com/license/mit-license">MIT</a></code></summary>
 
 - **[GitHub](https://github.com/graphbrain/graphbrain)** (👨‍💻 7 · 🔀 11 · 📥 1 · 📋 12 - 41% open · ⏱️ 28.09.2019):
 
@@ -336,7 +336,7 @@ _Speech Recognition, ..._
 <details><summary>Show 1 hidden projects...</summary>
 <br><details><summary><b><a href="https://github.com/kaldi-asr/kaldi">kaldi</a></b> (🥇18 ·  ⭐ 7.7K) - This is the official location of the Kaldi project. <code>❗️Unlicensed</code></summary>
 
-- **[GitHub](https://github.com/kaldi-asr/kaldi)** (👨‍💻 360 · 🔀 3.4K · 📋 1.2K - 18% open · ⏱️ 07.11.2019):
+- **[GitHub](https://github.com/kaldi-asr/kaldi)** (👨‍💻 360 · 🔀 3.4K · 📋 1.2K - 18% open · ⏱️ 09.11.2019):
 
 	```
 	git clone https://github.com/kaldi-asr/kaldi
@@ -391,7 +391,7 @@ _Data collection & extraction and web crawling libraries and tools._
 
 <details><summary><b><a href="https://github.com/ytdl-org/youtube-dl">youtube-dl</a></b> (🥇30 ·  ⭐ 58K) - Command-line program to download videos from YouTube.com and other.. <code><a href="https://tldrlegal.com/license/unlicense">Unlicense</a></code></summary>
 
-- **[GitHub](https://github.com/ytdl-org/youtube-dl)** (👨‍💻 840 · 🔀 10K · 📥 39M · 📋 19K - 16% open · ⏱️ 06.11.2019):
+- **[GitHub](https://github.com/ytdl-org/youtube-dl)** (👨‍💻 840 · 🔀 10K · 📥 39M · 📋 19K - 16% open · ⏱️ 09.11.2019):
 
 	```
 	git clone https://github.com/ytdl-org/youtube-dl
@@ -469,13 +469,15 @@ _Data collection & extraction and web crawling libraries and tools._
 
 _Libraries for Approximate Nearest Neighbor Search and Vector Indexing/Similarity Search. For an awesome comparison, refer to this [benchmark](https://github.com/erikbern/ann-benchmarks)._
 
-<details><summary><b><a href="https://github.com/netrasys/pgANN">pgANN</a></b> (🥇8 ·  ⭐ 100 · 🐣) - Fast Approximate Nearest Neighbor (ANN) searches with a PostgreSQL.. <code><a href="https://tldrlegal.com/license/mit-license">MIT</a></code></summary>
+<details><summary>Show 1 hidden projects...</summary>
+<br><details><summary><b><a href="https://github.com/netrasys/pgANN">pgANN</a></b> (🥇8 ·  ⭐ 100 · 🐣) - Fast Approximate Nearest Neighbor (ANN) searches with a PostgreSQL.. <code><a href="https://tldrlegal.com/license/mit-license">MIT</a></code></summary>
 
 - **[GitHub](https://github.com/netrasys/pgANN)** (👨‍💻 1 · 🔀 7 · 📋 2 - 50% open · ⏱️ 21.10.2019):
 
 	```
 	git clone https://github.com/netrasys/pgANN
 	```
+</details>
 </details>
 <br>
 
@@ -509,7 +511,7 @@ _Libraries for connecting and operating databases._
 
 <details><summary><b><a href="https://github.com/ml5js/ml5-library">ml5-library</a></b> (🥈23 ·  ⭐ 3.1K) - Friendly machine learning for the web!. <code><a href="https://tldrlegal.com/license/mit-license">MIT</a></code></summary>
 
-- **[GitHub](https://github.com/ml5js/ml5-library)** (👨‍💻 42 · 🔀 260 · 📥 99 · 📦 200 · 📋 320 - 29% open · ⏱️ 07.11.2019):
+- **[GitHub](https://github.com/ml5js/ml5-library)** (👨‍💻 42 · 🔀 260 · 📥 99 · 📦 210 · 📋 320 - 29% open · ⏱️ 07.11.2019):
 
 	```
 	git clone https://github.com/ml5js/ml5-library
@@ -540,9 +542,9 @@ _Libraries for connecting and operating databases._
 	```
 </details>
 <details><summary>Show 4 hidden projects...</summary>
-<br><details><summary><b><a href="https://github.com/isnowfy/snownlp">snownlp</a></b> (🥉17 ·  ⭐ 4.4K · 💀) - Python library for processing Chinese text. <code><a href="https://tldrlegal.com/license/mit-license">MIT</a></code></summary>
+<br><details><summary><b><a href="https://github.com/isnowfy/snownlp">snownlp</a></b> (🥉18 ·  ⭐ 4.4K · 💀) - Python library for processing Chinese text. <code><a href="https://tldrlegal.com/license/mit-license">MIT</a></code></summary>
 
-- **[GitHub](https://github.com/isnowfy/snownlp)** (👨‍💻 7 · 🔀 1.1K · 📦 230 · 📋 92 - 32% open · ⏱️ 19.05.2017):
+- **[GitHub](https://github.com/isnowfy/snownlp)** (👨‍💻 7 · 🔀 1.1K · 📦 230 · 📋 95 - 34% open · ⏱️ 19.05.2017):
 
 	```
 	git clone https://github.com/isnowfy/snownlp
@@ -550,7 +552,7 @@ _Libraries for connecting and operating databases._
 </details>
 <details><summary><b><a href="https://github.com/gorgonia/gorgonia">gorgonia</a></b> (🥉17 ·  ⭐ 2.9K) - Gorgonia is a library that helps facilitate machine learning in Go. <code>❗️Unlicensed</code></summary>
 
-- **[GitHub](https://github.com/gorgonia/gorgonia)** (👨‍💻 33 · 🔀 280 · 📋 200 - 34% open · ⏱️ 07.11.2019):
+- **[GitHub](https://github.com/gorgonia/gorgonia)** (👨‍💻 33 · 🔀 280 · 📋 200 - 34% open · ⏱️ 08.11.2019):
 
 	```
 	git clone https://github.com/gorgonia/gorgonia
@@ -625,7 +627,7 @@ _Libraries for connecting and operating databases._
 	git clone https://github.com/SheffieldML/GPy
 	```
 </details>
-<details><summary><b><a href="https://github.com/dnouri/nolearn">nolearn</a></b> (🥈18 ·  ⭐ 930) - Combines the ease of use of scikit-learn with the power of.. <code><a href="https://tldrlegal.com/license/mit-license">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/dnouri/nolearn">nolearn</a></b> (🥇18 ·  ⭐ 930) - Combines the ease of use of scikit-learn with the power of.. <code><a href="https://tldrlegal.com/license/mit-license">MIT</a></code></summary>
 
 - **[GitHub](https://github.com/dnouri/nolearn)** (👨‍💻 18 · 🔀 270 · 📦 250 · 📋 210 - 18% open · ⏱️ 05.11.2019):
 
@@ -635,7 +637,7 @@ _Libraries for connecting and operating databases._
 </details>
 <details><summary><b><a href="https://github.com/google-research/google-research">google-research</a></b> (🥈16 ·  ⭐ 5.2K) - Google AI Research. <code><a href="https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)">Apache-2</a></code></summary>
 
-- **[GitHub](https://github.com/google-research/google-research)** (👨‍💻 140 · 🔀 820 · 📋 110 - 80% open · ⏱️ 07.11.2019):
+- **[GitHub](https://github.com/google-research/google-research)** (👨‍💻 140 · 🔀 830 · 📋 110 - 80% open · ⏱️ 09.11.2019):
 
 	```
 	git clone https://github.com/google-research/google-research
@@ -657,7 +659,7 @@ _Libraries for connecting and operating databases._
 	git clone https://github.com/astooke/rlpyt
 	```
 </details>
-<details><summary><b><a href="https://github.com/harvardnlp/pytorch-struct">pytorch-struct</a></b> (🥉12 ·  ⭐ 420 · 🐣) - Fast, general, and tested differentiable structured prediction in.. <code><a href="https://tldrlegal.com/license/mit-license">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/harvardnlp/pytorch-struct">pytorch-struct</a></b> (🥉12 ·  ⭐ 430 · 🐣) - Fast, general, and tested differentiable structured prediction in.. <code><a href="https://tldrlegal.com/license/mit-license">MIT</a></code></summary>
 
 - **[GitHub](https://github.com/harvardnlp/pytorch-struct)** (👨‍💻 5 · 🔀 29 · 📋 11 - 54% open · ⏱️ 01.11.2019):
 
@@ -665,21 +667,34 @@ _Libraries for connecting and operating databases._
 	git clone https://github.com/harvardnlp/pytorch-struct
 	```
 </details>
-<details><summary><b><a href="https://github.com/cvxgrp/cvxpylayers">cvxpylayers</a></b> (🥉9 ·  ⭐ 410 · 🐣) - Differentiable convex optimization layers. <code><a href="https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/cvxgrp/cvxpylayers">cvxpylayers</a></b> (🥉11 ·  ⭐ 410 · 🐣) - Differentiable convex optimization layers. <code><a href="https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)">Apache-2</a></code></summary>
 
-- **[GitHub](https://github.com/cvxgrp/cvxpylayers)** (👨‍💻 3 · 🔀 20 · 📋 5 - 40% open · ⏱️ 05.11.2019):
+- **[GitHub](https://github.com/cvxgrp/cvxpylayers)** (👨‍💻 3 · 🔀 21 · 📋 5 - 40% open · ⏱️ 09.11.2019):
 
 	```
 	git clone https://github.com/cvxgrp/cvxpylayers
 	```
 </details>
-<details><summary>Show 3 hidden projects...</summary>
+<details><summary>Show 4 hidden projects...</summary>
 <br><details><summary><b><a href="https://github.com/PyMVPA/PyMVPA">PyMVPA</a></b> (🥈17 ·  ⭐ 260) - MultiVariate Pattern Analysis in Python. <code>❗️Unlicensed</code></summary>
 
 - **[GitHub](https://github.com/PyMVPA/PyMVPA)** (👨‍💻 53 · 🔀 110 · 📦 14 · 📋 280 - 39% open · ⏱️ 12.08.2019):
 
 	```
 	git clone https://github.com/PyMVPA/PyMVPA
+	```
+</details>
+<details><summary><b><a href="https://github.com/risenW/datasist">datasist</a></b> (🥉13 ·  ⭐ 46 · 🐣) - Datasist abstract numerous techniques and functions used repeatedly.. <code><a href="https://tldrlegal.com/license/mit-license">MIT</a></code></summary>
+
+- **[GitHub](https://github.com/risenW/datasist)** (👨‍💻 10 · 🔀 25 · 📋 6 - 33% open · ⏱️ 09.11.2019):
+
+	```
+	git clone https://github.com/risenW/datasist
+	```
+- **[PyPi](https://pypi.org/project/datasist)** (⏱️ 30.10.2019):
+
+	```
+	pip install datasist
 	```
 </details>
 <details><summary><b><a href="https://github.com/yash1994/dframcy">dframcy</a></b> (🥉11 ·  ⭐ 30 · 🐣) - Dataframe Integration with spaCy. <code><a href="https://tldrlegal.com/license/mit-license">MIT</a></code></summary>
@@ -690,7 +705,7 @@ _Libraries for connecting and operating databases._
 	git clone https://github.com/yash1994/dframcy
 	```
 </details>
-<details><summary><b><a href="https://github.com/google-research/receptive_field">receptive_field</a></b> (🥉6 ·  ⭐ 67 · 🐣) - Compute receptive fields of your favorite convnets. <code><a href="https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/google-research/receptive_field">receptive_field</a></b> (🥉6 ·  ⭐ 71 · 🐣) - Compute receptive fields of your favorite convnets. <code><a href="https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)">Apache-2</a></code></summary>
 
 - **[GitHub](https://github.com/google-research/receptive_field)** (👨‍💻 2 · 🔀 5 · ⏱️ 04.11.2019):
 
