@@ -9,20 +9,24 @@ categories:
 # Cateogries from main file:
 - category: "dev-environments"
   title: "IDEs & Notebook Editors"
+  subtitle: "Collaboration Tools..."
 - category: "ml-platforms"
   title: "Machine Learning Platforms"
 - category: "business-intelligence"
   title: "Business Intelligence"
   subtitle: "Data Analytics, SQL.."
-- category: "data-viz"
-  title: "Data Visualization & Exploration"
+- category: "job-scheduler"
+  title: "Job Scheduler & Pipelines"
+  subtitle: "Scheduling, Workflow, Dataflow, ETL...,  job orchestration "
+- category: "data-integration"
+  title: "Data Integration & Ingestion"
+  subtitle: "Query Engines,..."
 - category: "data-processing"
   title: "Data Batch & Stream Processing"
-- category: "pipelines"
-  title: "Job & Data Pipelines"
-  subtitle: "Scheduling, Workflow, Dataflow, ETL..."
 - category: "data-labeling"
   title: "Data Labeling & Annotation"
+- category: "data-viz"
+  title: "Data Visualization & Exploration"
 - category: "model-viz"
   title: "Model Visualization"
 - category: "model-deployment"
@@ -42,9 +46,6 @@ categories:
 # New categories:
 - category: "remote-executions"
   title: "Remote Executions"
-- category: "data-integration"
-  title: "Data Integration & Ingestion"
-  subtitle: "Query Engines,..."
 - category: "event-analytics"
   title: "Event Analytics & Monitoring"
 - category: "file-systems"
@@ -54,61 +55,6 @@ categories:
 # Distributed Computing, Search Egnine, Model Management
 
 projects:
-# Data Integration
-- name: incubator-doris
-  github_id: apache/incubator-doris
-  category: data-integration
-- name: prisma
-  github_id: prisma/prisma
-  category: data-integration
-- name: tika
-  github_id: apache/tika
-  category: data-integration
-- name: drill
-  github_id: apache/drill
-  category: data-integration
-- name: presto
-  github_id: prestodb/presto
-  category: data-integration
-- name: impala
-  github_id: apache/impala
-  category: data-integration
-- name: tinkerpop
-  github_id: apache/tinkerpop
-  category: data-integration
-- name: aleph
-  github_id: alephdata/aleph
-  category: data-integration
-- name: geode
-  github_id: apache/geode
-  category: data-integration
-- name: camel
-  github_id: apache/camel
-  category: data-integration
-- name: calcite
-  github_id: apache/calcite
-  category: data-integration
-- name: sqoop
-  github_id: apache/sqoop
-  category: data-integration
-- name: alluxio
-  github_id: Alluxio/alluxio
-  category: data-integration
-- name: Zenko
-  github_id: scality/Zenko
-  category: data-integration
-- name: delta
-  github_id: delta-io/delta
-  category: data-integration
-- name: kylin
-  github_id: apache/kylin
-  category: data-integration
-- name: embulk
-  github_id: embulk/embulk
-  category: data-integration
-- name: pravega
-  github_id: pravega/pravega
-  category: data-integration
 # Remote Executions
 - name: fabtools
   github_id: fabtools/fabtools
@@ -319,6 +265,13 @@ projects:
 - name: snappydata
   github_id: SnappyDataInc/snappydata
   category: data-storage
+- name: PostGIS
+  github_id: postgis/postgis
+  category: data-storage
+- name: Kudu
+  github_id: apache/kudu
+  description: "Column-oriented data store of the Apache Hadoop ecosystem."
+  category: data-storage
 # ML Applications & Tools
 - name: bullet3
   github_id: bulletphysics/bullet3
@@ -357,6 +310,7 @@ projects:
 # Data Serialization
 - name: thrift
   github_id: apache/thrift
+  pypi_id: thrift
   category: data-serialization
 - name: protobuf
   github_id: protocolbuffers/protobuf
@@ -380,6 +334,56 @@ projects:
 - name: pig
   github_id: apache/pig
   category: data-processing
+# FAAS
+- name: OpenFaaS
+  github_id: openfaas/faas
+  helm_id: openfaas/openfaas
+  dockerhub_id: openfaas/gateway
+  category: faas
+- name: IronFunctions
+  github_id: iron-io/functions
+  dockerhub_id: iron/functions
+  brew_id: iron-functions
+  category: faas
+- name: Fission
+  github_id: fission/fission
+  category: faas
+- name: OpenWhisk
+  github_id: apache/openwhisk
+  dockerhub_id: openwhisk/controller
+  category: faas
+- name: fx
+  github_id: metrue/fx
+  dockerhub_id: metrue/fx-docker
+  category: faas
+- name: Kubeless
+  github_id: kubeless/kubeless
+  helm_id: incubator/kubeless
+  dockerhub_id: kubeless/function-controller
+  category: faas
+- name: Fn
+  github_id: fnproject/fn
+  helm_id: banzaicloud-stable/fn
+  brew_id: fn
+  dockerhub_id: fnproject/fnserver
+  category: faas
+- name: Hydrosphere Mist
+  github_id: Hydrospheredata/mist
+  dockerhub_id: hydrosphere/mist
+  category: faas
+# Job Scheduler & Pipelines
+- name: jaas
+  github_id: alexellis/jaas
+  category: job-scheduler
+- name: swarm-cronjob
+  github_id: crazy-max/swarm-cronjob
+  dockerhub_id: crazymax/swarm-cronjob
+  category: job-scheduler
+- name: Kala
+  github_id: ajvb/kala
+  go_id: github.com/ajvb/kala
+  npm_id: kala-node
+  category: job-scheduler
 # Others
 - name: rabbitmq-server
   github_id: rabbitmq/rabbitmq-server
@@ -409,8 +413,6 @@ projects:
   github_id: fluent/fluentd
 - name: pulsar
   github_id: apache/pulsar
-- name: aurora
-  github_id: apache/aurora
 - name: cascading
   github_id: cwensel/cascading
 - name: phoenix
@@ -419,3 +421,15 @@ projects:
   github_id: twitter/summingbird
 - name: scalding
   github_id: twitter/scalding
+- name: flyway
+  github_id: flyway/flyway
+- name: data-accelerator
+  github_id: microsoft/data-accelerator
+- name: Open Semantic Search
+  github_id: opensemanticsearch/open-semantic-search
+- name: Slick
+  github_id: slick/slick
+- name: Avatica
+  github_id: apache/calcite-avatica
+- name: MACE
+  github_id: XiaoMi/mace

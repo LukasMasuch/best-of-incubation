@@ -313,6 +313,9 @@ projects:
 - name: pinball
   github_id: pinterest/pinball
   category: data-pipelines
+- name: riko
+  github_id: nerevu/riko
+  category: data-pipelines
 # NN Search
 - name: pgANN
   github_id: netrasys/pgANN
@@ -343,3 +346,6 @@ projects:
   github_id: google-research/google-research
 - name: nolearn
   github_id: dnouri/nolearn
+- name: datasist
+  github_id: risenW/datasist
+  pypi_id: datasist
