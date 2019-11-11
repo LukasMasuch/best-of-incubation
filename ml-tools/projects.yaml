@@ -193,8 +193,9 @@ projects:
 - name: FiloDB
   github_id: filodb/FiloDB
   category: data-storage
-- name: kairosdb
+- name: KairosDB
   github_id: kairosdb/kairosdb
+  # label: web
   category: data-storage
 - name: heroic
   github_id: spotify/heroic
@@ -272,6 +273,10 @@ projects:
   github_id: apache/kudu
   description: "Column-oriented data store of the Apache Hadoop ecosystem."
   category: data-storage
+- name: RocksDB
+  github_id: facebook/rocksdb
+  license: Apache-2.0
+  category: data-storage
 # ML Applications & Tools
 - name: bullet3
   github_id: bulletphysics/bullet3
@@ -334,6 +339,13 @@ projects:
 - name: pig
   github_id: apache/pig
   category: data-processing
+- name: esper
+  github_id: espertechinc/esper
+  license: GPL-2.0
+  category: data-processing
+- name: nakadi
+  github_id: zalando/nakadi
+  category: data-processing
 # FAAS
 - name: OpenFaaS
   github_id: openfaas/faas
@@ -383,6 +395,10 @@ projects:
   github_id: ajvb/kala
   go_id: github.com/ajvb/kala
   npm_id: kala-node
+  category: job-scheduler
+- name: kube-airflow
+  github_id: mumoshu/kube-airflow
+  dockerhub_id: mumoshu/kube-airflow
   category: job-scheduler
 # Others
 - name: rabbitmq-server
