@@ -56,7 +56,7 @@ _Collaboration Tools..._
 	git clone https://github.com/rstudio/rmarkdown
 	```
 </details>
-<details><summary><b><a href="https://github.com/MrNothing/AI-Blocks">AI-Blocks</a></b> (🥈16 ·  ⭐ 1.7K) - A powerful and intuitive WYSIWYG interface that allows anyone to.. <code>❗️Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/MrNothing/AI-Blocks">AI-Blocks</a></b> (🥈16 ·  ⭐ 1.7K) - A powerful and intuitive WYSIWYG interface that allows anyone to create.. <code>❗️Unlicensed</code></summary>
 
 - **[GitHub](https://github.com/MrNothing/AI-Blocks)** (👨‍💻 4 · 🔀 220 · 📥 3K · 📋 16 - 12% open · ⏱️ 22.10.2019):
 
@@ -80,7 +80,7 @@ _Collaboration Tools..._
 	git clone https://github.com/floydhub/dl-docker
 	```
 </details>
-<details><summary><b><a href="https://github.com/rlan/notebooks">notebooks</a></b> (🥉7 ·  ⭐ 15) - A docker starter kit for Jupyter notebooks and machine learning. Companion.. <code><a href="https://tldrlegal.com/license/mit-license">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/rlan/notebooks">notebooks</a></b> (🥉7 ·  ⭐ 15) - A docker starter kit for Jupyter notebooks and machine learning. Companion docker.. <code><a href="https://tldrlegal.com/license/mit-license">MIT</a></code></summary>
 
 - **[GitHub](https://github.com/rlan/notebooks)** (👨‍💻 1 · 📋 46 - 8% open · ⏱️ 31.10.2019):
 
@@ -138,7 +138,7 @@ _Scheduling, Workflow, Dataflow, ETL...,  job orchestration_
 	```
 	git clone https://github.com/crazy-max/swarm-cronjob
 	```
-- **[Dockerhub](https://hub.docker.com/r/crazymax/swarm-cronjob)** (📥 830K · ⭐ 4 · ⏱️ 30.10.2019):
+- **[Dockerhub](https://hub.docker.com/r/crazymax/swarm-cronjob)** (📥 830K · ⭐ 4 · ⏱️ 11.11.2019):
 
 	```
 	docker pull crazymax/swarm-cronjob
@@ -202,7 +202,7 @@ _Scheduling, Workflow, Dataflow, ETL...,  job orchestration_
 	git clone https://github.com/espertechinc/esper
 	```
 </details>
-<details><summary><b><a href="https://github.com/zalando/nakadi">nakadi</a></b> (🥈17 ·  ⭐ 550) - A distributed event bus that implements a RESTful API abstraction on top of.. <code><a href="https://tldrlegal.com/license/mit-license">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/zalando/nakadi">nakadi</a></b> (🥈17 ·  ⭐ 550) - A distributed event bus that implements a RESTful API abstraction on top of Kafka-.. <code><a href="https://tldrlegal.com/license/mit-license">MIT</a></code></summary>
 
 - **[GitHub](https://github.com/zalando/nakadi)** (👨‍💻 58 · 🔀 110 · 📋 180 - 22% open · ⏱️ 31.10.2019):
 
@@ -224,7 +224,7 @@ _Scheduling, Workflow, Dataflow, ETL...,  job orchestration_
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://i.ibb.co/2PS8bhR/up-arrow.png" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/jiesutd/YEDDA">YEDDA</a></b> (🥉11 ·  ⭐ 480) - YEDDA: A Lightweight Collaborative Text Span Annotation Tool. Code for ACL.. <code><a href="https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/jiesutd/YEDDA">YEDDA</a></b> (🥉11 ·  ⭐ 480) - YEDDA: A Lightweight Collaborative Text Span Annotation Tool. Code for ACL 2018.. <code><a href="https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)">Apache-2</a></code></summary>
 
 - **[GitHub](https://github.com/jiesutd/YEDDA)** (👨‍💻 3 · 🔀 150 · 📋 26 - 19% open · ⏱️ 31.07.2019):
 
@@ -241,7 +241,7 @@ _Scheduling, Workflow, Dataflow, ETL...,  job orchestration_
 	git clone https://github.com/nlplab/brat
 	```
 </details>
-<details><summary><b><a href="https://github.com/ox-vgg/via">via</a></b> (🥈12 ·  ⭐ 72) - (MIRROR) a standalone image annotator application packaged as a single HTML file.. <code><a href="https://tldrlegal.com/license/bsd-2-clause-license-(freebsd)">BSD-2</a></code></summary>
+<details><summary><b><a href="https://github.com/ox-vgg/via">via</a></b> (🥈12 ·  ⭐ 72) - (MIRROR) a standalone image annotator application packaged as a single HTML file ( 200.. <code><a href="https://tldrlegal.com/license/bsd-2-clause-license-(freebsd)">BSD-2</a></code></summary>
 
 - **[GitHub](https://github.com/ox-vgg/via)** (👨‍💻 10 · 🔀 27 · ⏱️ 20.08.2019):
 
@@ -257,7 +257,7 @@ _Scheduling, Workflow, Dataflow, ETL...,  job orchestration_
 	git clone https://github.com/RTIInternational/SMART
 	```
 </details>
-<details><summary><b><a href="https://github.com/apache/incubator-annotator">incubator-annotator</a></b> (🥉11 ·  ⭐ 72) - Apache Annotator provides annotation enabling code for.. <code><a href="https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/apache/incubator-annotator">incubator-annotator</a></b> (🥉11 ·  ⭐ 72) - Apache Annotator provides annotation enabling code for browsers,.. <code><a href="https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)">Apache-2</a></code></summary>
 
 - **[GitHub](https://github.com/apache/incubator-annotator)** (👨‍💻 6 · 🔀 20 · 📋 34 - 32% open · ⏱️ 11.11.2019):
 
@@ -281,7 +281,7 @@ _Scheduling, Workflow, Dataflow, ETL...,  job orchestration_
 	git clone https://github.com/CogComp/talen
 	```
 </details>
-<details><summary><b><a href="https://github.com/yanfengliu/turkey">turkey</a></b> (🥉7 ·  ⭐ 46) - Easily create a web UI on Amazon Mechanical Turk to crowd-source instance.. <code><a href="https://tldrlegal.com/license/mit-license">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/yanfengliu/turkey">turkey</a></b> (🥉7 ·  ⭐ 46) - Easily create a web UI on Amazon Mechanical Turk to crowd-source instance segmentation.. <code><a href="https://tldrlegal.com/license/mit-license">MIT</a></code></summary>
 
 - **[GitHub](https://github.com/yanfengliu/turkey)** (👨‍💻 2 · 🔀 1 · ⏱️ 24.07.2019):
 
@@ -321,7 +321,7 @@ _Scheduling, Workflow, Dataflow, ETL...,  job orchestration_
 	git clone https://github.com/jacomyal/sigma.js
 	```
 </details>
-<details><summary><b><a href="https://github.com/cytoscape/cytoscape">cytoscape</a></b> (🥉18 ·  ⭐ 250) - Cytoscape: an open source platform for network analysis and.. <code>❗️Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/cytoscape/cytoscape">cytoscape</a></b> (🥉18 ·  ⭐ 250) - Cytoscape: an open source platform for network analysis and visualization. <code>❗️Unlicensed</code></summary>
 
 - **[GitHub](https://github.com/cytoscape/cytoscape)** (👨‍💻 17 · 🔀 74 · 📥 340K · ⏱️ 11.10.2019):
 
@@ -439,7 +439,7 @@ _Scheduling, Workflow, Dataflow, ETL...,  job orchestration_
 	docker pull hydrosphere/mist
 	```
 </details>
-<details><summary><b><a href="https://github.com/metrue/fx">fx</a></b> (🥉18 ·  ⭐ 1.3K) - fx is a framework to help you do Function as a Service with painless on your own.. <code><a href="https://tldrlegal.com/license/mit-license">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/metrue/fx">fx</a></b> (🥉18 ·  ⭐ 1.3K) - fx is a framework to help you do Function as a Service with painless on your own servers. <code><a href="https://tldrlegal.com/license/mit-license">MIT</a></code></summary>
 
 - **[GitHub](https://github.com/metrue/fx)** (👨‍💻 20 · 🔀 64 · 📥 1.7K · 📋 110 - 40% open · ⏱️ 11.11.2019):
 
@@ -475,7 +475,7 @@ _Scheduling, Workflow, Dataflow, ETL...,  job orchestration_
 
 _Dart Storage tools such as relational, document, graph, time-series, and key-value databases. For a more in-depth comparison, take a look at the [DB Engines Ranking](https://db-engines.com/en/ranking)._
 
-<details><summary><b><a href="https://github.com/facebook/rocksdb">RocksDB</a></b> (🥇24 ·  ⭐ 15K) - A library that provides an embeddable, persistent key-value store for.. <code><a href="https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/facebook/rocksdb">RocksDB</a></b> (🥇24 ·  ⭐ 15K) - A library that provides an embeddable, persistent key-value store for fast.. <code><a href="https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)">Apache-2</a></code></summary>
 
 - **[GitHub](https://github.com/facebook/rocksdb)** (👨‍💻 650 · 🔀 3.4K · 📋 1.9K - 21% open · ⏱️ 09.11.2019):
 
@@ -483,7 +483,7 @@ _Dart Storage tools such as relational, document, graph, time-series, and key-va
 	git clone https://github.com/facebook/rocksdb
 	```
 </details>
-<details><summary><b><a href="https://github.com/thanos-io/thanos">thanos</a></b> (🥇24 ·  ⭐ 4.6K) - Highly available Prometheus setup with long term storage capabilities... <code><a href="https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/thanos-io/thanos">thanos</a></b> (🥇24 ·  ⭐ 4.6K) - Highly available Prometheus setup with long term storage capabilities. CNCF.. <code><a href="https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)">Apache-2</a></code></summary>
 
 - **[GitHub](https://github.com/thanos-io/thanos)** (👨‍💻 160 · 🔀 560 · 📥 56K · 📋 690 - 37% open · ⏱️ 11.11.2019):
 
@@ -515,7 +515,7 @@ _Dart Storage tools such as relational, document, graph, time-series, and key-va
 	git clone https://github.com/Netflix/atlas
 	```
 </details>
-<details><summary><b><a href="https://github.com/m3db/m3">m3</a></b> (🥈22 ·  ⭐ 2.3K) - M3 monorepo - Distributed TSDB, Aggregator and Query Engine, Prometheus.. <code><a href="https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/m3db/m3">m3</a></b> (🥈22 ·  ⭐ 2.3K) - M3 monorepo - Distributed TSDB, Aggregator and Query Engine, Prometheus Sidecar,.. <code><a href="https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)">Apache-2</a></code></summary>
 
 - **[GitHub](https://github.com/m3db/m3)** (👨‍💻 57 · 🔀 210 · 📥 13K · 📋 470 - 61% open · ⏱️ 11.11.2019):
 
@@ -523,7 +523,7 @@ _Dart Storage tools such as relational, document, graph, time-series, and key-va
 	git clone https://github.com/m3db/m3
 	```
 </details>
-<details><summary><b><a href="https://github.com/apple/foundationdb">foundationdb</a></b> (🥈21 ·  ⭐ 9.6K) - FoundationDB - the open source, distributed, transactional key-.. <code><a href="https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/apple/foundationdb">foundationdb</a></b> (🥈21 ·  ⭐ 9.6K) - FoundationDB - the open source, distributed, transactional key-value.. <code><a href="https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)">Apache-2</a></code></summary>
 
 - **[GitHub](https://github.com/apple/foundationdb)** (👨‍💻 110 · 🔀 750 · 📋 610 - 54% open · ⏱️ 09.11.2019):
 
@@ -531,7 +531,7 @@ _Dart Storage tools such as relational, document, graph, time-series, and key-va
 	git clone https://github.com/apple/foundationdb
 	```
 </details>
-<details><summary><b><a href="https://github.com/tikv/tikv">tikv</a></b> (🥈21 ·  ⭐ 6.3K) - Distributed transactional key-value database, originally created to.. <code><a href="https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/tikv/tikv">tikv</a></b> (🥈21 ·  ⭐ 6.3K) - Distributed transactional key-value database, originally created to complement.. <code><a href="https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)">Apache-2</a></code></summary>
 
 - **[GitHub](https://github.com/tikv/tikv)** (👨‍💻 200 · 🔀 920 · 📋 1.5K - 36% open · ⏱️ 11.11.2019):
 
@@ -539,7 +539,7 @@ _Dart Storage tools such as relational, document, graph, time-series, and key-va
 	git clone https://github.com/tikv/tikv
 	```
 </details>
-<details><summary><b><a href="https://github.com/SnappyDataInc/snappydata">snappydata</a></b> (🥈21 ·  ⭐ 930) - Project SnappyData - memory optimized analytics database, based on.. <code><a href="https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/SnappyDataInc/snappydata">snappydata</a></b> (🥈21 ·  ⭐ 930) - Project SnappyData - memory optimized analytics database, based on Apache.. <code><a href="https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)">Apache-2</a></code></summary>
 
 - **[GitHub](https://github.com/SnappyDataInc/snappydata)** (👨‍💻 78 · 🔀 180 · 📥 18K · 📋 200 - 44% open · ⏱️ 08.11.2019):
 
@@ -555,7 +555,7 @@ _Dart Storage tools such as relational, document, graph, time-series, and key-va
 	git clone https://github.com/filodb/FiloDB
 	```
 </details>
-<details><summary><b><a href="https://github.com/VictoriaMetrics/VictoriaMetrics">VictoriaMetrics</a></b> (🥉19 ·  ⭐ 1.4K) - VictoriaMetrics - high-performance, cost-effective and scalable.. <code><a href="https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/VictoriaMetrics/VictoriaMetrics">VictoriaMetrics</a></b> (🥉19 ·  ⭐ 1.4K) - VictoriaMetrics - high-performance, cost-effective and scalable time.. <code><a href="https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)">Apache-2</a></code></summary>
 
 - **[GitHub](https://github.com/VictoriaMetrics/VictoriaMetrics)** (👨‍💻 12 · 🔀 78 · 📥 4.8K · 📋 160 - 34% open · ⏱️ 11.11.2019):
 
@@ -587,7 +587,7 @@ _Dart Storage tools such as relational, document, graph, time-series, and key-va
 	git clone https://github.com/apache/carbondata
 	```
 </details>
-<details><summary><b><a href="https://github.com/hugegraph/hugegraph">hugegraph</a></b> (🥉18 ·  ⭐ 860) - HugeGraph Database core component, including graph engine, API, and.. <code><a href="https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/hugegraph/hugegraph">hugegraph</a></b> (🥉18 ·  ⭐ 860) - HugeGraph Database core component, including graph engine, API, and built-in.. <code><a href="https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)">Apache-2</a></code></summary>
 
 - **[GitHub](https://github.com/hugegraph/hugegraph)** (👨‍💻 15 · 🔀 130 · 📥 6.1K · 📋 500 - 39% open · ⏱️ 11.11.2019):
 
@@ -732,7 +732,7 @@ _Dart Storage tools such as relational, document, graph, time-series, and key-va
 	git clone https://github.com/FirebirdSQL/firebird
 	```
 </details>
-<details><summary><b><a href="https://github.com/tarantool/tarantool">tarantool</a></b> (🥉19 ·  ⭐ 2.3K) - Get your data in RAM. Get compute close to data. Enjoy the.. <code>❗️Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/tarantool/tarantool">tarantool</a></b> (🥉19 ·  ⭐ 2.3K) - Get your data in RAM. Get compute close to data. Enjoy the performance. <code>❗️Unlicensed</code></summary>
 
 - **[GitHub](https://github.com/tarantool/tarantool)** (👨‍💻 120 · 🔀 200 · 📥 430 · 📋 4.4K - 19% open · ⏱️ 11.11.2019):
 
@@ -756,7 +756,7 @@ _Dart Storage tools such as relational, document, graph, time-series, and key-va
 	git clone https://github.com/memcached/memcached
 	```
 </details>
-<details><summary><b><a href="https://github.com/griddb/griddb_nosql">griddb_nosql</a></b> (🥉18 ·  ⭐ 1K) - high performance, high scalability and high reliability database.. <code>❗️Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/griddb/griddb_nosql">griddb_nosql</a></b> (🥉18 ·  ⭐ 1K) - high performance, high scalability and high reliability database for.. <code>❗️Unlicensed</code></summary>
 
 - **[GitHub](https://github.com/griddb/griddb_nosql)** (👨‍💻 7 · 🔀 1.9K · 📥 14K · 📋 130 - 15% open · ⏱️ 31.10.2019):
 
@@ -764,7 +764,7 @@ _Dart Storage tools such as relational, document, graph, time-series, and key-va
 	git clone https://github.com/griddb/griddb_nosql
 	```
 </details>
-<details><summary><b><a href="https://github.com/openlink/virtuoso-opensource">virtuoso-opensource</a></b> (🥉18 ·  ⭐ 590) - Virtuoso is a high-performance and scalable Multi-Model.. <code>❗️Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/openlink/virtuoso-opensource">virtuoso-opensource</a></b> (🥉18 ·  ⭐ 590) - Virtuoso is a high-performance and scalable Multi-Model RDBMS,.. <code>❗️Unlicensed</code></summary>
 
 - **[GitHub](https://github.com/openlink/virtuoso-opensource)** (👨‍💻 23 · 🔀 160 · 📥 6.5K · 📋 820 - 60% open · ⏱️ 30.09.2019):
 
@@ -780,7 +780,7 @@ _Dart Storage tools such as relational, document, graph, time-series, and key-va
 	git clone https://github.com/apache/jena
 	```
 </details>
-<details><summary><b><a href="https://github.com/mackyle/sqlite">sqlite</a></b> (🥉16 ·  ⭐ 1.4K) - Unofficial git mirror of SQLite sources (see link for build.. <code>❗️Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/mackyle/sqlite">sqlite</a></b> (🥉16 ·  ⭐ 1.4K) - Unofficial git mirror of SQLite sources (see link for build instructions). <code>❗️Unlicensed</code></summary>
 
 - **[GitHub](https://github.com/mackyle/sqlite)** (👨‍💻 28 · 🔀 440 · ⏱️ 10.11.2019):
 
@@ -852,7 +852,7 @@ _Dart Storage tools such as relational, document, graph, time-series, and key-va
 	```
 </details>
 <details><summary>Show 2 hidden projects...</summary>
-<br><details><summary><b><a href="https://github.com/saltstack/salt">salt</a></b> (🥇26 ·  ⭐ 10K) - Software to automate the management and configuration of any.. <code>❗️Unlicensed</code></summary>
+<br><details><summary><b><a href="https://github.com/saltstack/salt">salt</a></b> (🥇26 ·  ⭐ 10K) - Software to automate the management and configuration of any infrastructure.. <code>❗️Unlicensed</code></summary>
 
 - **[GitHub](https://github.com/saltstack/salt)** (👨‍💻 3.4K · 🔀 4.7K · 📥 19K · 📋 22K - 13% open · ⏱️ 11.11.2019):
 
@@ -883,7 +883,7 @@ _Dart Storage tools such as relational, document, graph, time-series, and key-va
 	git clone https://github.com/apache/skywalking
 	```
 </details>
-<details><summary><b><a href="https://github.com/matomo-org/matomo">matomo</a></b> (🥈24 ·  ⭐ 12K) - Liberating Web Analytics. Star us on Github? +1. Matomo is the leading.. <code><a href="https://tldrlegal.com/license/gnu-general-public-license-v3-(gpl-3)">❗️GPL-3.0</a></code></summary>
+<details><summary><b><a href="https://github.com/matomo-org/matomo">matomo</a></b> (🥈24 ·  ⭐ 12K) - Liberating Web Analytics. Star us on Github? +1. Matomo is the leading open.. <code><a href="https://tldrlegal.com/license/gnu-general-public-license-v3-(gpl-3)">❗️GPL-3.0</a></code></summary>
 
 - **[GitHub](https://github.com/matomo-org/matomo)** (👨‍💻 300 · 🔀 1.9K · 📦 7 · 📋 11K - 16% open · ⏱️ 11.11.2019):
 
@@ -915,7 +915,7 @@ _Dart Storage tools such as relational, document, graph, time-series, and key-va
 	git clone https://github.com/snowplow/snowplow
 	```
 </details>
-<details><summary><b><a href="https://github.com/allinurl/goaccess">goaccess</a></b> (🥉18 ·  ⭐ 10K) - GoAccess is a real-time web log analyzer and interactive viewer that runs in.. <code><a href="https://tldrlegal.com/license/mit-license">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/allinurl/goaccess">goaccess</a></b> (🥉18 ·  ⭐ 10K) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a.. <code><a href="https://tldrlegal.com/license/mit-license">MIT</a></code></summary>
 
 - **[GitHub](https://github.com/allinurl/goaccess)** (👨‍💻 100 · 🔀 700 · 📋 1.4K - 18% open · ⏱️ 30.10.2019):
 
@@ -953,9 +953,9 @@ _Dart Storage tools such as relational, document, graph, time-series, and key-va
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://i.ibb.co/2PS8bhR/up-arrow.png" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/chrislusf/seaweedfs">seaweedfs</a></b> (🥇23 ·  ⭐ 8.7K) - SeaweedFS is a simple and highly scalable distributed file system... <code><a href="https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/chrislusf/seaweedfs">seaweedfs</a></b> (🥇23 ·  ⭐ 8.7K) - SeaweedFS is a simple and highly scalable distributed file system. There.. <code><a href="https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)">Apache-2</a></code></summary>
 
-- **[GitHub](https://github.com/chrislusf/seaweedfs)** (👨‍💻 99 · 🔀 1.2K · 📥 24K · 📋 870 - 3% open · ⏱️ 10.11.2019):
+- **[GitHub](https://github.com/chrislusf/seaweedfs)** (👨‍💻 99 · 🔀 1.2K · 📥 24K · 📋 870 - 3% open · ⏱️ 11.11.2019):
 
 	```
 	git clone https://github.com/chrislusf/seaweedfs
@@ -1036,7 +1036,7 @@ _Dart Storage tools such as relational, document, graph, time-series, and key-va
 	git clone https://github.com/fluent/fluentd
 	```
 </details>
-<details><summary><b><a href="https://github.com/robbyrussell/oh-my-zsh">oh-my-zsh</a></b> (🥈23 ·  ⭐ 98K) - A delightful community-driven (with 1,300+ contributors) framework for.. <code><a href="https://tldrlegal.com/license/mit-license">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/robbyrussell/oh-my-zsh">oh-my-zsh</a></b> (🥈23 ·  ⭐ 98K) - A delightful community-driven (with 1,300+ contributors) framework for managing.. <code><a href="https://tldrlegal.com/license/mit-license">MIT</a></code></summary>
 
 - **[GitHub](https://github.com/robbyrussell/oh-my-zsh)** (👨‍💻 1.7K · 🔀 18K · 📋 3.6K - 21% open · ⏱️ 09.11.2019):
 
@@ -1052,7 +1052,7 @@ _Dart Storage tools such as relational, document, graph, time-series, and key-va
 	git clone https://github.com/apache/pulsar
 	```
 </details>
-<details><summary><b><a href="https://github.com/XiaoMi/mace">MACE</a></b> (🥈20 ·  ⭐ 3.6K) - MACE is a deep learning inference framework optimized for mobile.. <code><a href="https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/XiaoMi/mace">MACE</a></b> (🥈20 ·  ⭐ 3.6K) - MACE is a deep learning inference framework optimized for mobile heterogeneous.. <code><a href="https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)">Apache-2</a></code></summary>
 
 - **[GitHub](https://github.com/XiaoMi/mace)** (👨‍💻 40 · 🔀 620 · 📥 900 · 📋 480 - 8% open · ⏱️ 07.11.2019):
 
@@ -1132,7 +1132,7 @@ _Dart Storage tools such as relational, document, graph, time-series, and key-va
 	git clone https://github.com/apache/orc
 	```
 </details>
-<details><summary><b><a href="https://github.com/microsoft/data-accelerator">data-accelerator</a></b> (🥉15 ·  ⭐ 210) - Data Accelerator for Apache Spark simplifies onboarding to Streaming.. <code><a href="https://tldrlegal.com/license/mit-license">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/microsoft/data-accelerator">data-accelerator</a></b> (🥉15 ·  ⭐ 210) - Data Accelerator for Apache Spark simplifies onboarding to Streaming of.. <code><a href="https://tldrlegal.com/license/mit-license">MIT</a></code></summary>
 
 - **[GitHub](https://github.com/microsoft/data-accelerator)** (👨‍💻 19 · 🔀 52 · 📋 38 - 68% open · ⏱️ 07.11.2019):
 
@@ -1140,7 +1140,7 @@ _Dart Storage tools such as relational, document, graph, time-series, and key-va
 	git clone https://github.com/microsoft/data-accelerator
 	```
 </details>
-<details><summary><b><a href="https://github.com/opensemanticsearch/open-semantic-search">Open Semantic Search</a></b> (🥉10 ·  ⭐ 210) - Open Semantic Search Engine and Open Source Text Mining &.. <code><a href="https://tldrlegal.com/license/gnu-general-public-license-v3-(gpl-3)">❗️GPL-3.0</a></code></summary>
+<details><summary><b><a href="https://github.com/opensemanticsearch/open-semantic-search">Open Semantic Search</a></b> (🥉10 ·  ⭐ 210) - Open Semantic Search Engine and Open Source Text Mining & Text.. <code><a href="https://tldrlegal.com/license/gnu-general-public-license-v3-(gpl-3)">❗️GPL-3.0</a></code></summary>
 
 - **[GitHub](https://github.com/opensemanticsearch/open-semantic-search)** (👨‍💻 2 · 🔀 23 · 📋 210 - 38% open · ⏱️ 07.11.2019):
 
@@ -1205,7 +1205,7 @@ _Dart Storage tools such as relational, document, graph, time-series, and key-va
 	git clone https://github.com/apache/calcite-avatica
 	```
 </details>
-<details><summary><b><a href="https://github.com/cwensel/cascading">cascading</a></b> (🥉12 ·  ⭐ 310) - Cascading is a feature rich API for defining and executing complex.. <code>❗️Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/cwensel/cascading">cascading</a></b> (🥉12 ·  ⭐ 310) - Cascading is a feature rich API for defining and executing complex and.. <code>❗️Unlicensed</code></summary>
 
 - **[GitHub](https://github.com/cwensel/cascading)** (👨‍💻 15 · 🔀 230 · 📋 5 - 40% open · ⏱️ 10.10.2019):
 
@@ -1213,7 +1213,7 @@ _Dart Storage tools such as relational, document, graph, time-series, and key-va
 	git clone https://github.com/cwensel/cascading
 	```
 </details>
-<details><summary><b><a href="https://github.com/henripal/labnotebook">labnotebook</a></b> (🥉11 ·  ⭐ 530 · 💀) - LabNotebook is a tool that allows you to flexibly monitor, record,.. <code><a href="https://tldrlegal.com/license/mit-license">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/henripal/labnotebook">labnotebook</a></b> (🥉11 ·  ⭐ 530 · 💀) - LabNotebook is a tool that allows you to flexibly monitor, record, save,.. <code><a href="https://tldrlegal.com/license/mit-license">MIT</a></code></summary>
 
 - **[GitHub](https://github.com/henripal/labnotebook)** (👨‍💻 3 · 🔀 38 · 📋 13 - 38% open · ⏱️ 29.03.2018):
 
