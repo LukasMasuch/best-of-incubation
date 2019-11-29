@@ -14,75 +14,91 @@ categories:
   subtitle: "General-purpose and task-specific data visualization libraries."
 - category: "nlp"
   title: "Text Data & NLP"
-  subtitle: "Libraries for parsing, manipulating, and processing plain texts. ... Sequence Analysis"
+  subtitle: "Libraries for processing, cleaning, manipulating, and analyzing text data as well as libraries for NLP tasks such as language detection, fuzzy matching, classification, seq2seq learning, conversational AI, keyword extraction, and translation."
 - category: "image"
   title: "Image Data"
-  subtitle: "Libraries and tools for computer vision and image manipulation."
+  subtitle: "Libraries for image & video processing, manipulation, and augmentation as well as libraries for computer vision tasks such as facial recognition, object detection, character recognition, and classification."
 - category: "graph"
   title: "Graph Data"
+  subtitle: "Libraries for graph processing, clustering, embedding, and machine learning tasks."
 - category: "audio"
   title: "Audio Data"
-  subtitle: "Speech Recognition, ..."
+  subtitle: "Libraries for audio analysis, manipulation, transformation, and extraction, as well as speech recognition and music generation tasks."
 - category: "geospatial-data"
   title: "Geospatial Data"
-  subtitle: "Spatial Analysis, Geometry"
+  subtitle: "Libraries to load, process, analyze, and write geographic data as well as libraries for spatial analysis, map visualization, and geocoding."
 - category: "financial-data"
   title: "Financial Data"
+  subtitle: "Libraries for algorithmic stock/crypto trading, risk analytics, backtesting, technical analysis, and other tasks on financial data."
 - category: "time-series-data"
   title: "Time Series Data"
-  subtitle: "Sequential Data..."
+  subtitle: "Libraries for forecasting, anomaly detection, feature extraction, and machine learning on time-series and sequential data."
 - category: "medical-data"
   title: "Medical Data"
-- category: "data-handling"
-  title: "Data Handling"
-  subtitle: "Data containers and libraries & tools for data loading."
-- category: "data-collection"
-  title: "Data Collection & Extraction"
-  subtitle: "Data collection & extraction and web crawling libraries and tools."
+  subtitle: "Libraries for processing and analyzing medical data such as MRIs, EEGs, genomic data, and other medical imaging formats."
+- category: "data-containers"
+  title: "Data Containers & Structures"
+  subtitle: "General-purpose data containers & structures as well as utilities & extensions for pandas."
+- category: "data-loading"
+  title: "Data Loading & Extraction"
+  subtitle: "Libraries for loading, collecting, and extracting data from a variety of data sources and formats."
+- category: "web-scraping"
+  title: "Web Scraping & Crawling"
+  subtitle: "Libraries for web scraping, crawling, downloading, and mining as well as libraries."
 - category: "data-pipelines"
   title: "Data Pipelines & Streaming"
+  subtitle: "Libraries for data batch- and stream-processing, workflow automation, job scheduling, and other data pipeline tasks."
 - category: "distributed-ml"
   title: "Distributed Machine Learning"
+  subtitle: "Libraries that provide capabilities to distribute and parallelize machine learning tasks across large-scale compute infrastructure."
 - category: "hyperopt"
   title: "Hyperparameter Optimization & AutoML"
-  subtitle: "Hyperparameter optimization, AutoML and Neural Architecture Search libraries and tools."
+  subtitle: "Libraries for hyperparameter optimization, automl and neural architecture search."
 - category: "reinforcement-learning"
   title: "Reinforcement Learning"
+  subtitle: "Libraries for building and evaluating reinforcement learning & agent-based systems."
 - category: "recommender-systems"
   title: "Recommender Systems"
+  subtitle: "Libraries for building and evaluating recommendation systems."
 - category: "privacy-ml"
   title: "Privacy Machine Learning"
-- category: "ml-workflow"
+  subtitle: "Libraries for encrypted and privacy-preserving machine learning using methods like federated learning & differential privacy."
+- category: "ml-experiments"
   title: "Workflow & Experiment Tracking"
-  subtitle: "Organize, track, and visualize machine learning experiments."
+  subtitle: "Libraries to organize, track, and visualize machine learning experiments."
 - category: "model-serialisation"
-  title: "Model Serialisation & Conversion"
+  title: "Model Serialization & Conversion"
+  subtitle: "Libraries to serialize models to files, convert between a variety of model formats, and optimize models for deployment."
 - category: "interpretability"
   title: "Model Interpretability"
-  subtitle: "Visualize, explain, debug, evaluate, and interpret machine learning models."
+  subtitle: "Libraries to visualize, explain, debug, evaluate, and interpret machine learning models."
 - category: "nn-search"
   title: "Vector Similarity Search (ANN)"
   subtitle: "Libraries for Approximate Nearest Neighbor Search and Vector Indexing/Similarity Search. For an awesome comparison, refer to this [benchmark](https://github.com/erikbern/ann-benchmarks)."
-- category: "gpu-utilities"
-  title: "GPU Utilities"
-- category: "tensorflow-utils"
-  title: "Tensorflow Utilities"
-- category: "pytorch-utils"
-  title: "Pytorch Utilities"
 - category: "probabilistics"
   title: "Probabilistic Methods"
-  subtitle: "bayesian-methods..."
+  subtitle: "Libraries providing capabilities for probabilistic programming/reasoning, bayesian inference, and gaussian processes."
 - category: "adversarial"
   title: "Adversarial Robustness"
-  subtitle: "Security..."
+  subtitle: "Libraries for testing the robustness of machine learning models against attacks with adversarial/malicious examples."
+- category: "gpu-utilities"
+  title: "GPU Utilities"
+  subtitle: "Libraries that require and make use of CUDA/GPU system capabilities to optimize data handling and machine learning tasks."
+- category: "tensorflow-utils"
+  title: "Tensorflow Utilities"
+  subtitle: "Libraries that extend TensorFlow with general-purpose capabilities."
+- category: "pytorch-utils"
+  title: "Pytorch Utilities"
+  subtitle: "Libraries that extend Pytorch with general-purpose capabilities."
 - category: "db-clients"
   title: "Database Clients"
-  subtitle: "Libraries for connecting and operating databases."
-- category: "dashboard-builders"
-  title: "Dashboard & Webapp Builders"
+  subtitle: "Libraries for connecting to, operating, and querying databases."
 - category: "system-monitoring"
   title: "System Monitoring & Profiling"
+  subtitle: "Libraries to monitor, collect, and visualize system metrics (e.g., memory, CPU, GPU)." 
 # New categories:
+- category: "dashboard-builders"
+  title: "Dashboard & Webapp Builders"
 - category: "language-specific-nlp"
   title: "Language-specific NLP"
 - category: "ml-utilities"
@@ -179,6 +195,12 @@ projects:
 - name: transfer-learning-conv-ai
   github_id: huggingface/transfer-learning-conv-ai
   category: nlp
+- name: polyai-models
+  github_id: PolyAI-LDN/polyai-models
+  category: nlp
+- name: Joey NMT
+  github_id: joeynmt/joeynmt
+  category: nlp
 # Language-specific NLP
 - name: pkuseg-python
   github_id: lancopku/pkuseg-python
@@ -258,6 +280,34 @@ projects:
 - name: few-shot-vid2vid
   github_id: NVlabs/few-shot-vid2vid
   category: image
+- name: calamari
+  pypi_id: calamari_ocr
+  github_id: Calamari-OCR/calamari
+  category: image
+- name: Attention OCR
+  pypi_id: aocr
+  github_id: emedvedev/attention-ocr
+  category: image
+- name: doc2text
+  pypi_id: doc2text
+  github_id: jlsutherland/doc2text
+  category: image
+- name: pdftabextract
+  pypi_id: pdftabextract
+  github_id: WZBSocialScienceCenter/pdftabextract
+  category: image
+- name: chinese_ocr
+  github_id: YCG09/chinese_ocr
+  category: image
+- name: OCRmyPDF
+  github_id: jbarlow83/OCRmyPDF
+  apt_id: ocrmypdf
+  brew_id: ocrmypdf
+  pypi_id: ocrmypdf
+  category: image
+- name: Kaolin
+  github_id: NVIDIAGameWorks/kaolin
+  category: image
 # Audio Data
 - name: kaldi
   github_id: kaldi-asr/kaldi
@@ -268,6 +318,14 @@ projects:
   category: financial-data
 - name: pybacktest
   github_id: ematvey/pybacktest
+  category: financial-data
+- name: TuShare
+  github_id: waditu/tushare
+  pypi_id: tushare
+  category: financial-data
+- name: zvt
+  github_id: zvtvz/zvt
+  pypi_id: zvt
   category: financial-data
 # Geospatial Data
 - name: pypostal
@@ -292,20 +350,14 @@ projects:
 - name: KnowledgeGraphData
   github_id: ownthink/KnowledgeGraphData
   category: graph
+- name: CogDL
+  github_id: THUDM/cogdl
+  category: graph
 # Conversational AI
 - name: ChatterBot
   github_id: gunthercox/ChatterBot
   category: conversational-ai
 # Data Collection
-- name: youtube-dl
-  github_id: ytdl-org/youtube-dl
-  category: data-collection
-- name: you-get
-  github_id: soimort/you-get
-  category: data-collection
-- name: MechanicalSoup
-  github_id: MechanicalSoup/MechanicalSoup
-  category: data-collection
 # Data Pipelines
 - name: fuel
   github_id: mila-iqia/fuel
@@ -327,6 +379,38 @@ projects:
 - name: py2neo
   github_id: technige/py2neo
   category: db-clients
+# Pytorch Utils
+- name: pytorch-summary
+  github_id: sksq96/pytorch-summary
+  pypi_id: torchsummary
+  labels: ["pytorch"]
+  category: pytorch-utils
+# Dashboard & Webapp Builders
+- name: Grafanalib
+  pypi_id: grafanalib
+  github_id: weaveworks/grafanalib
+  category: dashboard-builders
+- name: Flexx
+  pypi_id: flexx
+  github_id: flexxui/flexx
+  conda_id: conda-forge/flexx
+  category: dashboard-builders
+- name: Panel
+  pypi_id: panel
+  github_id: pyviz/panel
+  category: dashboard-builders
+- name: Streamlit
+  pypi_id: streamlit
+  github_id: streamlit/streamlit
+  category: dashboard-builders
+- name: Scripted Forms
+  pypi_id: scriptedforms
+  github_id: SimonBiggs/scriptedforms
+  category: dashboard-builders
+- name: Dash
+  pypi_id: dash
+  github_id: plotly/dash
+  category: dashboard-builders
 # Others
 - name: lore
   github_id: instacart/lore
@@ -349,3 +433,26 @@ projects:
 - name: datasist
   github_id: risenW/datasist
   pypi_id: datasist
+- name: XlsxWriter
+  github_id: jmcnamara/XlsxWriter
+  pypi_id: xlsxwriter
+- name: SDC
+  github_id: IntelPython/sdc
+- name: csvs-to-sqlite
+  pypi_id: csvs-to-sqlite
+  github_id: simonw/csvs-to-sqlite
+- name: pandas-ml
+  pypi_id: pandas_ml
+  github_id: pandas-ml/pandas-ml
+- name: Pretty Pandas
+  pypi_id: prettypandas
+  github_id: HHammond/PrettyPandas
+- name: pytablewriter
+  pypi_id: pytablewriter
+  github_id: thombashi/pytablewriter
+- name: bamboolib
+  github_id: tkrabel/bamboolib
+- name: Deepdrive
+  github_id: deepdrive/deepdrive
+- name: selfdrive
+  github_id: littlemountainman/selfdrive
