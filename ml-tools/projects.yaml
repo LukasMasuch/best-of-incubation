@@ -277,6 +277,9 @@ projects:
   github_id: facebook/rocksdb
   license: Apache-2.0
   category: data-storage
+- name: Dolt
+  github_id: liquidata-inc/dolt
+  category: data-storage
 # ML Applications & Tools
 - name: bullet3
   github_id: bulletphysics/bullet3

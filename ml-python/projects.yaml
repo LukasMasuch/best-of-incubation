@@ -411,6 +411,11 @@ projects:
   pypi_id: dash
   github_id: plotly/dash
   category: dashboard-builders
+# Data Viz
+- name: drawilleplot
+  github_id: gooofy/drawilleplot
+  pypi_id: drawilleplot
+  category: data-viz
 # Others
 - name: lore
   github_id: instacart/lore
