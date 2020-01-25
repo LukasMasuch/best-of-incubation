@@ -138,6 +138,9 @@ labels:
 
 projects:
 # NLP:
+- name: LAMA
+  github_id: facebookresearch/LAMA
+  category: nlp
 - name: ktext
   github_id: hamelsmu/ktext
   category: nlp
@@ -308,9 +311,15 @@ projects:
 - name: Kaolin
   github_id: NVIDIAGameWorks/kaolin
   category: image
+- name: AugMix
+  github_id: google-research/augmix
+  category: image
 # Audio Data
 - name: kaldi
   github_id: kaldi-asr/kaldi
+  category: audio
+- name: wav2letter
+  github_id: facebookresearch/wav2letter
   category: audio
 # Financial Data
 - name: MachineLearningStocks
@@ -379,10 +388,36 @@ projects:
 - name: py2neo
   github_id: technige/py2neo
   category: db-clients
+# Web Scraping
+- name: Ultimate Facebook Scraper
+  github_id: harismuneer/Ultimate-Facebook-Scraper
+  category: web-scraping
+# Hyperopt
+- name: Auto-PyTorch
+  github_id: automl/Auto-PyTorch
+  labels: ["pytorch"]
+  category: hyperopt
+- name: hyperopt-sklearn
+  github_id: hyperopt/hyperopt-sklearn
+  labels: ["sklearn"]
+  category: hyperopt
+# Privacy
+- name: PyGrid
+  github_id: OpenMined/PyGrid
+  category: privacy-ml
 # Pytorch Utils
 - name: pytorch-summary
   github_id: sksq96/pytorch-summary
   pypi_id: torchsummary
+  labels: ["pytorch"]
+  category: pytorch-utils
+- name: xla
+  github_id: pytorch/xla
+  #dockerhub_id: gcr.io/tpu-pytorch/xla:nightly
+  labels: ["pytorch"]
+- name: AdaMod
+  github_id: lancopku/AdaMod
+  pypi_id: adamod
   labels: ["pytorch"]
   category: pytorch-utils
 # Dashboard & Webapp Builders
@@ -416,6 +451,25 @@ projects:
   github_id: gooofy/drawilleplot
   pypi_id: drawilleplot
   category: data-viz
+- name: AutoViz
+  github_id: AutoViML/AutoViz
+  pypi_id: autoviz
+  category: data-viz
+- name: Altair Saver
+  github_id: altair-viz/altair_saver
+  pypi_id: altair_saver
+  conda_id: conda-forge/altair_saver
+  category: data-viz
+# Model Interpretability
+- name: Interpret Community
+  github_id: interpretml/interpret-community
+  pypi_id: interpret-community
+  category: interpretability
+# ML Workflow Tools
+- name: Aethos
+  github_id: Ashton-Sidhu/aethos
+  pypi_id: aethos
+  category: ml-experiments
 # Others
 - name: lore
   github_id: instacart/lore
@@ -461,3 +515,30 @@ projects:
   github_id: deepdrive/deepdrive
 - name: selfdrive
   github_id: littlemountainman/selfdrive
+- name: sotabench-eval
+  github_id: paperswithcode/sotabench-eval
+  pypi_id: sotabench-eval
+- name: Datasist
+  github_id: risenW/datasist
+  pypi_id: datasist
+- name: Mathy
+  github_id: justindujardin/mathy
+  pypi_id: mathy
+- name: ESTool
+  github_id: hardmaru/estool
+- name: tsalib
+  github_id: ofnote/tsalib
+  pypi_id: tsalib
+- name: pandas-ml
+  github_id: pandas-ml/pandas-ml
+  pypi_id: pandas_ml
+- name: llvmlite
+  conda_id: numba/llvmlite
+  github_id: numba/llvmlite
+- name: PyWavelets
+  conda_id: conda-forge/pywavelets
+  pypi_id: pywavelets
+  github_id: PyWavelets/pywt
+- name: analytics-python
+  pypi_id: analytics-python
+  github_id: segmentio/analytics-python

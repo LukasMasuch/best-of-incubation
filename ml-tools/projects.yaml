@@ -218,6 +218,10 @@ projects:
 - name: h2database
   github_id: h2database/h2database
   category: data-storage
+- name: ksql
+  github_id: confluentinc/ksql
+  license: Confluent Community License Agreement
+  category: data-storage
 - name: firebird
   github_id: FirebirdSQL/firebird
   category: data-storage
@@ -452,3 +456,23 @@ projects:
   github_id: apache/calcite-avatica
 - name: MACE
   github_id: XiaoMi/mace
+- name: Logstash
+  github_id: elastic/logstash
+  license: Apache-2.0
+- name: Loki
+  github_id: grafana/loki
+  dockerhub_id: grafana/loki
+  helm_id: loki/loki
+- name: Apache Bahir
+  description: "Apache Bahir provides extensions to distributed analytics platforms such as Apache Spark & Apache Flink."
+  github_id: apache/bahir
+- name: Lookyloo
+  github_id: CIRCL/lookyloo
+- name: Cypher for Gremlin
+  dockerhub_id: neueda/cypher-gremlin-server
+  maven_id: org.opencypher.gremlin:cypher-gremlin-extensions
+  github_id: opencypher/cypher-for-gremlin
+  license: Apache-2.0
+- name: DLAB
+  description: "Self-service Web Console, used to create and manage exploratory environments."
+  github_id: apache/incubator-dlab
